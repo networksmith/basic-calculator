@@ -1,6 +1,10 @@
 #include <iostream>
 
-// get numbers
+// get numbersssss
+
+void testfunc() {
+
+}
 double getNumbers()
 {
 	std::cout << "Enter a number: ";
